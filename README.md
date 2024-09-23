@@ -19,8 +19,9 @@ I decided to develop a Procedure for a scenario where the city population is upd
 
 After all this, my project, which is based on the system of increasing the population with random but appropriate values in all provinces in the table at 10:00 every night and seeing this in the table, worked successfully. You can also make similar <i>auto-adjusting</i> systems with help from here.
 
--PostgreSQL
--pgAdmin 4
+-<i>PostgreSQL</i>
+
+-<i>pgAdmin 4</i>
 
 
 
