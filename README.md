@@ -1,4 +1,4 @@
-# Internship_project
+# Internship_project_postgresql
 I decided to develop a Procedure for a scenario where the city population is updated every night, taking care to ensure that it is in accordance with the definition of <i>Stored Procedure</i>.
 
 # Stages
@@ -18,5 +18,9 @@ I decided to develop a Procedure for a scenario where the city population is upd
 # Conclusion
 
 After all this, my project, which is based on the system of increasing the population with random but appropriate values in all provinces in the table at 10:00 every night and seeing this in the table, worked successfully. You can also make similar <i>auto-adjusting</i> systems with help from here.
+
+-PostgreSQL
+-pgAdmin 4
+
 
 
